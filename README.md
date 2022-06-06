@@ -1,5 +1,5 @@
-Javier Bertoli terraform coding test
-====================================
+Terraform POC
+=============
 
 This repository contains the code to:
 
